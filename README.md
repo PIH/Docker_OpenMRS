@@ -26,6 +26,16 @@ username: openmrs
 
 password: password
 
+You can also clone this repository and build you own images
+
+git clone https://github.com/PIH/Docker_OpenMRS.git
+
+cd path_to_Docker_OpenMRS.git folder
+
+docker build -t preferred_name/version .
+
+docker run -it Container_ID
+
 
 
 
