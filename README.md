@@ -10,15 +10,23 @@ docker run -it [Container_ID]
 
 OpenMRS credentials:
 
-username: admin password: Admin123
+username: admin 
+
+password: Admin123
 
 Mysql Credentials:
 
-username: root password: passw0rd
+username: root 
+
+password: passw0rd
 
 or
 
-username: openmrs password: password
+username: openmrs 
+
+password: password
+
+
 
 
 
